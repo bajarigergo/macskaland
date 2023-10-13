@@ -1,0 +1,107 @@
+.tarolo{
+    margin: auto;
+    width: 80%;
+    max-width: 800px;
+}
+.menu ul{
+    list-style-type: none;
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: white
+    
+}
+.menu a{
+    border: 1px solid rgb(223, 136, 6);
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(223, 136, 6);
+    color: white;
+    text-decoration: none;
+
+}
+.keresem{
+    text-align: center;
+}
+.keresem a{
+    border: 1px solid rgb(223, 136, 6);
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(223, 136, 6);
+    color: white;
+    text-decoration: none;
+
+}
+.fejlec{
+    padding: 10px;
+    background-image: url("images/hero.jpg");
+    height: 100vh;
+    background-size: cover;
+    margin-bottom: 0px;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin: 0px
+
+}
+p{
+    color: lightgrey;
+    text-align: center;
+}
+.tipus{
+    width: 60%;
+    margin: auto;
+}
+.tipus ul{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    color: white
+    
+}
+.tipus a{
+    border: 1px solid rgb(223, 136, 6);
+    border-radius: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(223, 136, 6);
+    color: white;
+    text-decoration: none;
+
+}
+.masodik{
+    background-color: black;
+}
+.harmadik{
+    background-color: black;
+}
+h2{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+.harmadik li{
+    color: lightgray
+}
+.keplista img{
+    width: 100%;
+}
+.keplista{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
